@@ -2,7 +2,7 @@
 
 using System;
 
-namespace ArregloEjercicio1;
+namespace ArrayEjercicio1;
 
 class Program
 {
