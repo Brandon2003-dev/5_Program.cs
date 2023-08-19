@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-namespace Ejercicio3;
+namespace ArrayEjercicio3;
 
 class Program
 {
